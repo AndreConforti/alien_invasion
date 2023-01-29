@@ -1,6 +1,6 @@
 # Alien Invasion
 
-Na Invasão Alienígena, o jogador controla uma espaçonave que
+* Na Invasão Alienígena, o jogador controla uma espaçonave que
 aparece na parte inferior central da tela. O jogador pode mover a
 espaçonave para a direita e para a esquerda usando as teclas de
 direção e atirar usando a barra de espaço. Quando o jogo começa,
